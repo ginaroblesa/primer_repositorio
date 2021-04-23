@@ -1,3 +1,3 @@
 ## Gina Robles
 
-mi primer repositorio
+mi primer repositorio,m listo cami era eso gracias
