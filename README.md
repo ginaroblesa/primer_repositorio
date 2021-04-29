@@ -28,3 +28,6 @@ Comandos
 *ver diferencias entre ramas
 ***git diff main.. prueba-secundaria***
 ***gitt diff main_1..rama_2***
+
+
+HOLAAAA PAOOOO
